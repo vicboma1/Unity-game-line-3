@@ -2,7 +2,7 @@
 
 Getting Started Game - Proof of Concept
 
-![](gif/Match-Tree.gif)
+![](gif/Match-Three-v.0.9.1.gif)
 
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
