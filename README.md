@@ -6,6 +6,7 @@ Getting Started Game - Proof of Concept
 
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
+* 11 - Match Line 3 - Animation drop cubes
 * 10 - Match Line 3 - Match line-link with new drop cubes
 * 09 - Match Line 3 - match with new drop cubes
 * 08 - Match Line 3 - Remove line-link cubes w/up touch
