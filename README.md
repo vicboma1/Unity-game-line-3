@@ -84,5 +84,5 @@ event EventHandler OnDispose;
 ```c#
 event EventHandler OnCompleteAnimation;
 event EventHandler OnStartAnimation;
-event EventHandler OnDisposeEffectAnimation;
+event EventHandler OnDisposeAnimation;
 ```
