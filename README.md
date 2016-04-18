@@ -59,6 +59,7 @@ event EventHandler OnEndPauseGame;
 event EventHandler OnNewMatch;
 event EventHandler OnInitializeGame;
 event EventHandler OnResetMatch;
+event EventHandler OnNewCombo;
 ```
 
 ### Core Controller
