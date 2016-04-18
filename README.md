@@ -8,6 +8,8 @@ MVC Architecture
 
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
+* 15 - Match Line 3 - Pause Dialog
+* 14 - Match Line 3 - Timer Count Down
 * 13 - Match Line 3 - Auto Match 3 Vertical - Fruit legends
 * 12 - Match Line 3 - Auto Match 3 Horizontal - Fruit legends
 * 11 - Match Line 3 - Animation drop cubes
