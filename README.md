@@ -2,12 +2,11 @@
 
 Getting Started Game - Proof of Concept. 
 
-MVC Architecture
-
 ![](gif/Match-Three-v.0.9.1.gif)
 
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
+* 16 - Match Line 3 - End dialog
 * 15 - Match Line 3 - Pause Dialog
 * 14 - Match Line 3 - Timer Count Down
 * 13 - Match Line 3 - Auto Match 3 Vertical - Fruit legends
@@ -24,6 +23,8 @@ MVC Architecture
 * 02 - Match Line 3 - Mount Board
 * 01 - Match Line 3 - Proof of Concept Mobile
 * 00 - Match Line 3 - Proof of Concept Desktop
+
+# MVC Architecture
 
 
 ## Puzzle Core States
