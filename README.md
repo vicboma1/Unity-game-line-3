@@ -4,7 +4,6 @@ Getting Started Game - Proof of Concept.
 
 ![](gif/Match-Three-v.0.9.5.gif)
 
-
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
 * 18 - Match Line 3 - Testing Auto Match Horizontal - Vertical
 * 17 - Fruit Legend - Bug Match **
@@ -27,6 +26,71 @@ Getting Started Game - Proof of Concept.
 * 00 - Match Line 3 - Proof of Concept Desktop
 
 # MVC Architecture
+
+## _Puzzle
+
+### State Machine
+```
+Controller
+Model
+```
+
+### Input
+```
+Controller
+Model
+```
+### Board
+```
+Controller 
+Model
+View
+Adapter
+```
+
+### Match
+```
+Cache
+Detector
+Iterator
+Model
+Controller
+Manager
+```
+
+### Node
+```
+Animation
+Model
+View
+Adapter
+Controller
+Factory
+Manager
+```
+
+### Union
+```
+Cache
+Point
+Line Renderer
+Adapter
+```
+
+## _Score
+```
+ Model
+ View
+ Controller
+ Adapter
+ Manager
+```
+
+
+
+
+_______________
+
 
 
 ## Puzzle Core States
@@ -95,4 +159,16 @@ event EventHandler OnDisposeNode;
 event EventHandler OnCompleteAnimation;
 event EventHandler OnStartAnimation;
 event EventHandler OnDisposeAnimation;
+```
+
+
+_______________
+
+
+
+## Score Event
+
+### Controller
+```c# 
+event EventHandler OnQuantityNode
 ```
