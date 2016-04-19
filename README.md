@@ -2,7 +2,7 @@
 
 Getting Started Game - Proof of Concept. 
 
-![](gif/Match-Three-v.0.9.5.gif)
+![](gif/Match-Three-v.0.9.6.gif)
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
 * 19 - Match Line 3 - Fade Out 
