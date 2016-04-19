@@ -6,6 +6,8 @@ Getting Started Game - Proof of Concept.
 
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
+* 18 - Match Line 3 - Testing Auto Match Horizontal - Vertical
+* 17 - Fruit Legend - Bug Match **
 * 16 - Match Line 3 - End dialog
 * 15 - Match Line 3 - Pause Dialog
 * 14 - Match Line 3 - Timer Count Down
