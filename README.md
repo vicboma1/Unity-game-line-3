@@ -1,6 +1,6 @@
 # Unity Game Line 3 / WIP - Puzzle
 
-Getting Started Game - Proof of Concept. 
+Getting Started Game - Proof of Concept  v.0.9.6
 
 ![](gif/Match-Three-v.0.9.6.gif)
 
