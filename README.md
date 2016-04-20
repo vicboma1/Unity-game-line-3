@@ -87,7 +87,10 @@ Adapter
  Manager
 ```
 
-
+## _CountDown Time
+```
+ Controller
+```
 
 
 _______________
@@ -172,4 +175,19 @@ _______________
 ### Controller
 ```c# 
 event EventHandler OnQuantityNode
+```
+
+
+_______________
+
+
+
+## CountDown Time Event
+
+### Controller
+```c# 
+event EventHandler OnStepCount;
+event EventHandler OnEndCount;
+event EventHandler OnStop;
+event EventHandler OnStart;
 ```
