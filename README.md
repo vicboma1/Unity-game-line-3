@@ -26,6 +26,13 @@ Getting Started Game - Proof of Concept  v.0.9.6
 * 01 - Match Line 3 - Proof of Concept Mobile
 * 00 - Match Line 3 - Proof of Concept Desktop
 
+# Framework
+* Context
+* Configuration
+* Injector / WIP
+* CommandMapper /WIP
+* EventDispatcher / Coming soon
+
 # MVC Architecture
 
 ## _Puzzle
