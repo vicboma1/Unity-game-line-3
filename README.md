@@ -26,7 +26,7 @@ Getting Started Game - Proof of Concept  v.0.9.6
 * 01 - Match Line 3 - Proof of Concept Mobile
 * 00 - Match Line 3 - Proof of Concept Desktop
 
-# Framework
+# Framework supported by Unity 5.0
 * Context
 * Configuration
 * Injector / WIP
