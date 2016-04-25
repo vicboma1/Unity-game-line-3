@@ -5,6 +5,10 @@ Getting Started Game - Proof of Concept  v.0.9.6
 ![](gif/Match-Three-v.0.9.6.gif)
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
+
+
+How to make a Match Line 3 Game 
+* 20 - Match Line 3 - Exit Button
 * 19 - Match Line 3 - Fade Out 
 * 18 - Match Line 3 - Testing Auto Match Horizontal - Vertical
 * 17 - Fruit Legend - Bug Match **
@@ -26,7 +30,7 @@ Getting Started Game - Proof of Concept  v.0.9.6
 * 01 - Match Line 3 - Proof of Concept Mobile
 * 00 - Match Line 3 - Proof of Concept Desktop
 
-# Framework supported by Unity 5.0
+# [Framework supported by Unity 5.0](https://github.com/vicboma1/FrameworkUnity)
 * Context
 * Configurator
 * Installer
