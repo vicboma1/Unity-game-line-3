@@ -1,6 +1,6 @@
 # Unity Cube Line Match 3 / WIP - Puzzle Game
 
-Getting Started Game - Proof of Concept  v.0.9.6
+Getting Started Game - Proof of Concept  v.1.0.0.
 
 ![](gif/Match-Three-v.0.9.6.gif)
 
