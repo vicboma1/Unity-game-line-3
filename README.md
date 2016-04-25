@@ -28,10 +28,11 @@ Getting Started Game - Proof of Concept  v.0.9.6
 
 # Framework supported by Unity 5.0
 * Context
-* Configuration
-* Injector / WIP
-* CommandMapper /WIP
-* EventDispatcher / Coming soon
+* Configurator
+* Installer
+* Injector 
+* CommandMap
+* EventDispatcher
 
 # MVC Architecture
 
