@@ -32,11 +32,17 @@ How to make a Match Line 3 Game
 
 # [Framework supported by Unity 5.0](https://github.com/vicboma1/FrameworkUnity)
 * Context
-* Configurator
 * Installer
-* Injector 
-* CommandMap
-* EventDispatcher
+* Configurator
+* Injector
+* Dispatcher
+* Adapter
+* Controller
+* Command Map
+* Reflector
+* Mono
+* Patterns
+* Attributes
 
 # MVC Architecture
 
