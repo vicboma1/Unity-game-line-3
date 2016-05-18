@@ -8,7 +8,7 @@ Getting Started Game - Proof of Concept  v.1.0.0.
 
 
 How to make a Match Line 3 Game 
-* 21 - Match Line 3 - Auto Match Line 3
+* 21 - Match Line 3 - Auto Match Line 3 / IA PathFinding
 * 20 - Match Line 3 - Exit Button
 * 19 - Match Line 3 - Fade Out 
 * 18 - Match Line 3 - Testing Auto Match Horizontal - Vertical
