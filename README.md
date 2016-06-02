@@ -8,6 +8,7 @@ Getting Started Game - Proof of Concept  v.1.0.0.
 
 
 How to make a Match Line 3 Game 
+* 24 - Match Line 3 - Auto Remove Link Match Line / Left outer join ( SleepyWings ** )
 * 23 - Match Line 3 - Auto Reset 
 * 22 - Match Line 3 - PathFinding based algorithm that solves the "kata game of life" of the coding dojo.
 * 21 - Match Line 3 - Auto Match Line 3 / IA PathFinding
