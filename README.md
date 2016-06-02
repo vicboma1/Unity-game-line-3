@@ -2,7 +2,7 @@
 
 Getting Started Game - Proof of Concept  v.1.0.4.
 
-![](gif/Match-Three-v.0.9.6.gif)
+![](gif/Match-Three-v.1.0.4.gif)
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
 
