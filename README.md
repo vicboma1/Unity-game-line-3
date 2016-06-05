@@ -1,8 +1,8 @@
 # Unity Cube Line Match 3 - Puzzle Game
 
-Getting Started Game - Proof of Concept  v.1.0.4.
+Getting Started Game - Proof of Concept  v.1.0.5.
 
-![](gif/Match-Three-v.1.0.4.gif)
+![](gif/Match-Three-v.1.0.5.gif)
 
 # [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE8GtUUGKSLgPERU7Lj6-8YI)
 
