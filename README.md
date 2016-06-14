@@ -35,19 +35,7 @@ How to make a Match Line 3 Game
 * 01 - Match Line 3 - Proof of Concept Mobile
 * 00 - Match Line 3 - Proof of Concept Desktop
 
-# [Framework supported by Unity 5.0](https://github.com/vicboma1/FrameworkUnity)
-* Context
-* Installer
-* Configurator
-* Injector
-* Dispatcher
-* Adapter
-* Controller
-* Command Map
-* Reflector
-* Mono
-* Patterns
-* Attributes
+# [Unitor - MicroFramework supported by Unity 5.0](https://github.com/vicboma1/FrameworkUnity)
 
 # MVC Architecture
 
