@@ -1,4 +1,4 @@
-# Unity Cube Line Match 3 - Puzzle Game
+# Cube Line Match 3 - Puzzle Game
 
 Getting Started Game - Proof of Concept  v.1.0.5.
 
